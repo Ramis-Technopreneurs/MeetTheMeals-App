@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "6470c07485d75ecb87929efe"
+  },
+  "image": "https://www.linkpicture.com/q/optp.png",
+  "name": "OPTP",
+  "description": "Get ready to turn up the heat with OPTP's Nashville Hot Burger - a crispy patty with a tangy and smoky flavor that will leave you craving more! Order now!",
+  "dcharges": 75,
+  "dtime": "40",
+  "menu": [
+    {
+      "menu_name": "Burger",
+      "_id": {
+        "$oid": "6470c1cbfd66a40c9afb5924"
+      }
+    },
+    {
+      "menu_name": "Fries",
+      "_id": {
+        "$oid": "6470c1cbfd66a40c9afb5925"
+      }
+    },
+    {
+      "menu_name": "Family Bag",
+      "_id": {
+        "$oid": "6470c1cbfd66a40c9afb5926"
+      }
+    }
+  ],
+  "products": [
+    {
+      "popular": true,
+      "status": "Fries",
+      "pimage": "https://www.linkpicture.com/q/nuggetsWithFriesOptp.png",
+      "pname": "Nuggets with Fries",
+      "pprice": 540
+    },
+    {
+      "popular": true,
+      "status": "Fries",
+      "pimage": "https://www.linkpicture.com/q/masalaFries.png",
+      "pname": "Masala fries",
+      "pprice": 150
+    },
+    {
+      "popular": false,
+      "status": "Burger",
+      "pimage": "https://www.linkpicture.com/q/shotgunBag.png",
+      "pname": "Shot-Gun Bag",
+      "pprice": 550
+    },
+    {
+      "popular": false,
+      "status": "Burger",
+      "pimage": "https://www.linkpicture.com/q/comboDeal.png",
+      "pname": "Combo Deal",
+      "pprice": 550
+    },
+    {
+      "popular": true,
+      "status": "Fries",
+      "pimage": "https://www.linkpicture.com/q/loadedFries.png",
+      "pname": "Loaded fries",
+      "pprice": 550
+    },
+    {
+      "popular": false,
+      "status": "Burger",
+      "pimage": "https://www.linkpicture.com/q/bounceDeal.png",
+      "pname": "Bounce Deal",
+      "pprice": 550
+    },
+    {
+      "popular": true,
+      "status": "Fries",
+      "pimage": "https://www.linkpicture.com/q/bbqFries.png",
+      "pname": "BBQ fries",
+      "pprice": 550
+    }
+  ],
+  "__v": 0,
+  "category": "Burger"
+},
+{
+  "_id": {
+    "$oid": "6478b1c3594913f0c627ec2c"
+  },
+  "image": "https://www.linkpicture.com/q/kfc_1.png",
+  "name": "KFC",
+  "description": "KFC is an American fast food restaurant chain headquartered in Louisville, Kentucky, that specializes in fried chicken. It is the world's second-largest restaurant chain after McDonald's, with 22,621 locations globally in 150 countries as of December 2019. The chain is a subsidiary of Yum",
+  "dcharges": 75,
+  "dtime": "40",
+  "menu": [
+    {
+      "menu_name": "Every Day Value",
+      "_id": {
+        "$oid": "6478b1c3594913f0c627ec33"
+      }
+    },
+    {
+      "menu_name": "Signature Boxes",
+      "_id": {
+        "$oid": "6478b1c3594913f0c627ec34"
+      }
+    }
+  ],
+  "products": [
+    {
+      "_id": {
+        "$oid": "6478b1c3594913f0c627ec2d"
+      },
+      "popular": true,
+      "status": "Every Day Value",
+      "pimage": "https://www.linkpicture.com/q/kfc_every_krunch.jpg",
+      "pname": "Krunch Burger",
+      "pprice": 540
+    },
+    {
+      "_id": {
+        "$oid": "6478b1c3594913f0c627ec2e"
+      },
+      "popular": false,
+      "status": "Every Day Value",
+      "pimage": "https://www.linkpicture.com/q/kfc_every_riceNspice-image.jpg",
+      "pname": "Rice N Spice",
+      "pprice": 450
+    },
+    {
+      "_id": {
+        "$oid": "6478b1c3594913f0c627ec2f"
+      },
+      "popular": false,
+      "status": "Signature Boxes",
+      "pimage": "https://www.linkpicture.com/q/kfc_sb_BonelessMealBox.jpg",
+      "pname": "Boneless Meal Box",
+      "pprice": 450
+    },
+    {
+      "_id": {
+        "$oid": "6478b1c3594913f0c627ec30"
+      },
+      "popular": false,
+      "status": "Signature Boxes",
+      "pimage": "https://www.linkpicture.com/q/kfc_sb_crispyBox.jpg",
+      "pname": "Crispy Deal",
+      "pprice": 450
+    },
+    {
+      "_id": {
+        "$oid": "6478b1c3594913f0c627ec31"
+      },
+      "popular": false,
+      "status": "Every Day Value",
+      "pimage": "https://www.linkpicture.com/q/kfc_every_kruchWithFriesNdrink.jpg",
+      "pname": "Krunch Burger With Fries N Drink",
+      "pprice": 600
+    },
+    {
+      "_id": {
+        "$oid": "6478b1c3594913f0c627ec32"
+      },
+      "popular": true,
+      "status": "Signature Boxes",
+      "pimage": "https://www.linkpicture.com/q/kfc_sb_WowMeakBox_1.jpg",
+      "pname": "Wow Meal Box",
+      "pprice": 450
+    }
+  ],
+  "__v": 0,
+  "category": "Burger"
+}]

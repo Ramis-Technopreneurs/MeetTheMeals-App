@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6470732d735e1be361359a85"
+  },
+  "image": "https://www.linkpicture.com/q/burger_2.png",
+  "name": "Burger",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647074bc2e0307d32c4d7620"
+  },
+  "image": "https://www.linkpicture.com/q/chineese.png",
+  "name": "Chineese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647075cc2e0307d32c4d7623"
+  },
+  "image": "https://www.linkpicture.com/q/donut_1.png",
+  "name": "Sweets",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647076532e0307d32c4d7625"
+  },
+  "image": "https://www.linkpicture.com/q/meat.png",
+  "name": "Steak",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647076a92e0307d32c4d7627"
+  },
+  "image": "https://www.linkpicture.com/q/pizza.png",
+  "name": "Pizza",
+  "__v": 0
+}]

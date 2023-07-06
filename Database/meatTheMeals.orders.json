@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "647a127d17f7344f271872e9"
+  },
+  "name": "fahad",
+  "address": "karachi",
+  "contact_number": 123456,
+  "email": "fahad@gmail.com",
+  "total": 850,
+  "restaurant_name": "OPTP",
+  "status": "pending",
+  "order": [
+    {
+      "item_name": "shot gun burger",
+      "quantity": 4,
+      "note": "extra cheese",
+      "_id": {
+        "$oid": "647a127d17f7344f271872ea"
+      }
+    }
+  ],
+  "date": {
+    "$date": "2023-06-02T16:02:05.267Z"
+  },
+  "__v": 0
+}]

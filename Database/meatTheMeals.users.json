@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "646f83f0b58bf59b82e8fa59"
+  },
+  "name": "fahad",
+  "email": "fahad@gmail.com",
+  "password": "$2b$10$eMjxoFnq6NyYsGBZKHLaheWOgqByLdqBL80zFN8M5qGuE7ThzMeZC",
+  "phonenumber": {
+    "$numberLong": "3212358217"
+  },
+  "__v": 0
+}]
